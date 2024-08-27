@@ -1,4 +1,4 @@
 # college-demo
 this is first git repository
 <br>
-Auther-bikesh
+Auther-bikesh(college-demo)
